@@ -1,7 +1,7 @@
-- 👋 Hi, We're Techle
-- 🙌 We tackle your problems while you rest
-- 👨‍💻Product developmment,Website Development,App development
-- 🏢 We help you digitalise your buisness
+- 👋 Hi, We're Techle.
+- 🙌 We tackle your problems while you rest.
+- 👨‍💻 Our Services - Product developmment, Website Development, App development, UI/UX Design.
+- 🏢 We help you digitalise your buisness.
 
 <!---
 Techle-in/Techle-in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
